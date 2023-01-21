@@ -1,0 +1,28 @@
+.container1{
+    height: 600px;
+    width: 800px;
+    margin-left: 20%;
+    margin-top: 5%;
+    background-color: grey;
+}
+h1{
+    margin-left: 10%;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    margin-left: 10%;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#img1{
+    margin-left: 20%;
+    margin-top: 3%;
+}
+#po{
+    color:black;
+}
+#yt{
+    color: black;
+}
